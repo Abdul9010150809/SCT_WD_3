@@ -34,14 +34,14 @@ https://<your-github-username>.github.io/<repository-name>/
 ```
 
 Example for your profile:
-➡️ [https://kala-techies.github.io/tic-tac-toe/](https://kala-techies.github.io/tic-tac-toe/)
+➡️ [https://abdul9010150809.github.io/SCT_WD_3/](https://abdul9010150809.github.io/SCT_WD_3/)
 
 ## 🛠️ How to Use
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/kala-techies/tic-tac-toe.git
+   git clone https://github.com/Abdul9010150809/SCT_WD_3.git
    cd tic-tac-toe
    ```
 
@@ -64,8 +64,8 @@ Pull requests are welcome! Let’s learn and build together.
 
 Have questions or suggestions? Reach out to me:
 
-📧 Email: [connectwithkala18@gmail.com](mailto:connectwithkala18@gmail.com)
-🔗 GitHub: [github.com/kala-techies](https://github.com/kala-techies)
+📧 Email: [SHAIK.ABDULSAMMED@outlook.com](mailto:SHAIK.ABDULSAMMED@outlook.com)
+🔗 GitHub: [https://github.com/Abdul9010150809](https://github.com/Abdul9010150809)
 
 ---
 
