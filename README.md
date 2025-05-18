@@ -71,3 +71,7 @@ Have questions or suggestions? Reach out to me:
 
 ## Happy Coding & Game On! 🎯
 
+💻 Made with passion and precision
+
+❤️ By Abdul Sammed as a part of Skill craft intern
+
