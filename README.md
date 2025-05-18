@@ -18,7 +18,7 @@ This project allows two players to play Tic Tac Toe in the browser with features
 ## 📂 Project Structure
 
 ```
-tic-tac-toe/
+SCT_WD_3/
 ├── index.html           # Main HTML file
 ├── style.css            # CSS styles (light/dark mode, layout)
 ├── app.js               # Game logic with DOM interactions
@@ -42,7 +42,7 @@ Example for your profile:
 
    ```bash
    git clone https://github.com/Abdul9010150809/SCT_WD_3.git
-   cd tic-tac-toe
+   cd SCT_WD_3
    ```
 
 2. **Open `index.html` in your browser**
