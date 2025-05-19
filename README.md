@@ -18,11 +18,18 @@ This project allows two players to play Tic Tac Toe in the browser with features
 ## 📂 Project Structure
 
 ```
-SCT_WD_3/
-├── index.html           # Main HTML file
-├── style.css            # CSS styles (light/dark mode, layout)
-├── app.js               # Game logic with DOM interactions
-├── README.md            # Project documentation
+
+	SCT_WD_3/
+	├── index.html           # Main HTML file
+	├── style.css            # CSS styles (light/dark mode, layout)
+	├── app.js               # Game logic with DOM interactions
+	├── README.md            # Project documentation
+	├── output.pdf          # 🖨️ Printable version of the website│
+	├── images/             # 🖼️ Folder for all screenshots and output images
+   		├── img1.jpg
+    		├── img2.jpg
+    		└── ...
+    		
 ```
 
 ## 🚀 Live Demo
@@ -71,7 +78,12 @@ Have questions or suggestions? Reach out to me:
 
 ## Happy Coding & Game On! 🎯
 
+<<<<<<< HEAD
 💻 Made with passion and precision
 
 ❤️ By Abdul Sammed as a part of Skill craft intern
+=======
+## 💻 Made with passion and precision  
+
+## ❤️ By Abdul Sammed as a part of Skill craft intern
 
