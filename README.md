@@ -1,4 +1,5 @@
-# Tic Tac Toe – Web Game
+
+# Task 3 :-Tic Tac Toe – Web Game
 
 Welcome to the **Tic Tac Toe** web game repository! This is a fun and beginner-friendly project built using **HTML**, **CSS**, and **JavaScript**. It includes modern enhancements like player name input, score tracking, light/dark theme toggle, and more—all without using any backend database.
 
@@ -78,11 +79,6 @@ Have questions or suggestions? Reach out to me:
 
 ## Happy Coding & Game On! 🎯
 
-<<<<<<< HEAD
-💻 Made with passion and precision
-
-❤️ By Abdul Sammed as a part of Skill craft intern
-=======
 ## 💻 Made with passion and precision  
 
 ## ❤️ By Abdul Sammed as a part of Skill craft intern
